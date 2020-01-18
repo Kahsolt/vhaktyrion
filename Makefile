@@ -1,10 +1,7 @@
-all: printer
+.PHONY : w clean
 
-printer:
-	python printer.py
-	
+writer:
+	python writer.py
+
 clean:
-	rm -rf .*log *.o
-
-clean_fontcache:
-	rm -rf fonts.pkl
+	rm -rf fonts/*.pkl

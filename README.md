@@ -1,7 +1,7 @@
 # vhaktyrion
 
     Project of my experimental artificial language & fictional world.
-    P.s. vhaktyrion = vhaktyr (the grammatical language) + ion (the writing system)
+    PS. vhaktyrion = vhaktyr (the grammatical language) + ion (the writing system)
 
 ----
 
@@ -11,7 +11,7 @@
   - [ ] [Transcription Guide]()
   - [ ] [Text Printer](/printer.py)
   
-### vhaktyrion
+### vhaktyr
 
   - [ ] [Brief Tutorial for Quick Start]()
   - [ ] [Grammar Book]()
